@@ -12,7 +12,7 @@ Standing Planks works seamlessly in survival: simply hit planks with a stick to 
 ## Features
 - Vertical variants for all plank types
 - Natural integration with vanilla textures and resource packs
-- Survival‑friendly placement: sneak‑place to toggle orientation
+- Hit it with a stick to toggle orientation
 - Fully compatible with other mods and modded wood sets
 
 ## Supported Versions
