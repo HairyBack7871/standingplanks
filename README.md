@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/main/resources/assets/standings_planks/icon.png" width="160" alt="Standing Planks Icon">
+  <img src="src/main/resources/assets/standing_planks/icon.png" alt="Standing Planks Icon">
 </p>
 
 
