@@ -6,6 +6,7 @@
 
 # Standing Planks
 A mod for Minecraft that gives you vertical planks for every wood type in the game. Standing Planks lets you place any plank block upright, adding a clean vertical‑board look that fits naturally into vanilla building styles. Every plank variant uses the exact same textures, sounds, and behavior you already know—just rotated into a vertical orientation so you can build walls, trims, floors, and decorative details that weren’t possible before.
+[![Support the Studio](https://img.shields.io/badge/support-miaou%20studio-f4c2c2?style=for-the-badge)](https://www.paypal.com/ncp/payment/7KYNFHNCTC7YN)
 
 Standing Planks works seamlessly in survival: simply hit planks with a stick to toggle between horizontal and vertical orientation. Because the mod reuses the existing plank blocks with a lightweight blockstate property, it stays fully compatible with resource packs, modpacks, and other mods that add new plank types.
 
